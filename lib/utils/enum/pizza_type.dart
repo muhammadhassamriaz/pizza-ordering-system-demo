@@ -1,0 +1,1 @@
+enum PizzaType { vegetarian, nonVegetarian }
